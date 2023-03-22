@@ -37,11 +37,11 @@ p {
 .card {
   padding-bottom: 20px;
   padding-top:20px;
-  background-color: pink;
+  background-color: white;
   width: 80%;
   margin: 40px auto;
   border: 5px solid gray;
-  box-shadow: 5px 10px #110f0f;
+  box-shadow: 5px 10px #908b8b;
 }
 
 
